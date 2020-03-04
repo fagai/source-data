@@ -1,0 +1,14 @@
+{
+  "name": "fagai/zengin-data",
+  "description": "",
+  "license": "MIT",
+  "require": {
+    "ext-json": "*",
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Fagai\\ZenginData\\": "php-src"
+    }
+  }
+}
